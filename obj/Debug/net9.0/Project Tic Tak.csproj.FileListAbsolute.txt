@@ -1,0 +1,14 @@
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\obj\Debug\net9.0\Project Tic Tak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\obj\Debug\net9.0\Project Tic Tak.AssemblyInfoInputs.cache
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\obj\Debug\net9.0\Project Tic Tak.AssemblyInfo.cs
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\obj\Debug\net9.0\Project Tic Tak.csproj.CoreCompileInputs.cache
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\bin\Debug\net9.0\Project Tic Tak.exe
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\bin\Debug\net9.0\Project Tic Tak.deps.json
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\bin\Debug\net9.0\Project Tic Tak.runtimeconfig.json
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\bin\Debug\net9.0\Project Tic Tak.dll
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\bin\Debug\net9.0\Project Tic Tak.pdb
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\obj\Debug\net9.0\Project Tic Tak.dll
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\obj\Debug\net9.0\refint\Project Tic Tak.dll
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\obj\Debug\net9.0\Project Tic Tak.pdb
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\obj\Debug\net9.0\Project Tic Tak.genruntimeconfig.cache
+C:\Users\Ерік\Documents\C#\Project Tic Tak\Project Tic Tak\obj\Debug\net9.0\ref\Project Tic Tak.dll
