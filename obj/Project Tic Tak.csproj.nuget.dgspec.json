@@ -1,25 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ерік\\Documents\\C#\\Project Tic Tak\\Project Tic Tak\\Project Tic Tak.csproj": {}
+    "/Users/kaanyenigun/Desktop/projects/fun/eriks-tic-tac-toe/Project Tic Tak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ерік\\Documents\\C#\\Project Tic Tak\\Project Tic Tak\\Project Tic Tak.csproj": {
+    "/Users/kaanyenigun/Desktop/projects/fun/eriks-tic-tac-toe/Project Tic Tak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ерік\\Documents\\C#\\Project Tic Tak\\Project Tic Tak\\Project Tic Tak.csproj",
+        "projectUniqueName": "/Users/kaanyenigun/Desktop/projects/fun/eriks-tic-tac-toe/Project Tic Tak.csproj",
         "projectName": "Project Tic Tak",
-        "projectPath": "C:\\Users\\Ерік\\Documents\\C#\\Project Tic Tak\\Project Tic Tak\\Project Tic Tak.csproj",
-        "packagesPath": "C:\\Users\\Ерік\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ерік\\Documents\\C#\\Project Tic Tak\\Project Tic Tak\\obj\\",
+        "projectPath": "/Users/kaanyenigun/Desktop/projects/fun/eriks-tic-tac-toe/Project Tic Tak.csproj",
+        "packagesPath": "/Users/kaanyenigun/.nuget/packages/",
+        "outputPath": "/Users/kaanyenigun/Desktop/projects/fun/eriks-tic-tac-toe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ерік\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/kaanyenigun/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "/opt/homebrew/Cellar/dotnet/9.0.7/libexec/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.7/libexec/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
